@@ -39,7 +39,7 @@ python3 telegramRSSbot.py
 
 ## Click Here!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/usmanmughalji/rss-feed-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/rss-feed-bot/tree/master)
 
 # Usage
 
